@@ -1,0 +1,8 @@
+food = "steak burger chips"
+
+if food == "steakburger chips":
+   print("this is so leng, boss man can i get burger sauce")  
+   print(" bro why is the chicken pink, boss let me get a refund...")   
+   print(100 * (food + "! "))
+else:
+     print ("im hungry")
